@@ -1,0 +1,10 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.toplevel_page_desparza-menu .dashicons-editor-code:before { font-weight: 900; color: #dd9c30 !important; }
+form#dewp_settings_form .dewp_settings-block { margin: 15px 15px 0 0; padding: 25px 10px 30px; }
+form#dewp_settings_form .dewp_settings-block { background-color: #f9f9f9; }
+form#dewp_settings_form .dewp_settings-block p { margin: 0; }
+form#dewp_settings_form .dewp_settings-block label { display: block; }
+form#dewp_settings_form .dewp_settings-block input[type=text] { width: 25%; margin-bottom: 15px; } 
+form#dewp_settings_form .dewp_settings-block input[type=number], form#dewp_settings_form .dewp_settings-block textarea { width: 25%; margin-bottom: 15px; } 
